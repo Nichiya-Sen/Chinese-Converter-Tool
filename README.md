@@ -16,6 +16,8 @@ Chinese Converter Tool
 
 注意：本程式的txt檔案及檔名轉換分頁會對匯入的檔案或文字進行檢查，有日文字體的部分會被略過，但有時仍會被辨識為繁體或簡體，需要使用者自行檢查。
 
+本程式使用openCC詞庫。
+
 A simple tool for quick conversion between Traditional and Simplified Chinese. The interface supports four languages: Traditional Chinese, Simplified Chinese, Japanese, and English.
 
 For instructions, click the question mark (❓) icon within the program. To change the language, click the gear (⚙️) icon.
@@ -30,6 +32,8 @@ Clipboard Conversion: Directly paste text or articles for quick conversion betwe
 
 Note: The TXT file and filename conversion tabs in this program will inspect imported files and text. While parts containing Japanese characters are intended to be skipped, they may occasionally be identified as Traditional or Simplified Chinese. User discretion is advised.
 
+This program uses the OpenCC library.
+
 手軽に繁体字と簡体字の相互変換ができるシンプルなツールです。インターフェースは繁体字、簡体字、日本語、英語の4言語に対応しています。
 
 使用方法はプログラム内の「？」アイコンを、言語の切り替えは「⚙」アイコンをクリックしてください。
@@ -43,3 +47,5 @@ TXTファイル変換：特定の単語置換機能に対応し、TXTファイ�
 クリップボード変換：文章やテキストを直接コピー＆ペーストして、繁体字・簡体字の変換ができます。
 
 ご注意：本ツールの「TXTファイル変換」および「ファイル名変換」タブでは、インポートされたファイルやテキストの内容がチェックされます。日本語の文字が含まれる部分はスキップされる仕様ですが、稀に繁体字または簡体字として認識されることがありますので、ユーザー自身でのご確認をお願いします。
+
+本プログラムはOpenCCライブラリを使用しています。
