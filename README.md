@@ -1,4 +1,4 @@
-Chinese Converter Tool
+Chinese Converter Tool(For windows 10 or 11)
 中文繁簡轉換工具
 
 說明：
